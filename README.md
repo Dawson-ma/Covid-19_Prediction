@@ -14,4 +14,4 @@ The model has demonstrated a commendable accuracy rate of **91.26%** on the give
 
 3. **Model Training**: The constructed neural network is trained using the prepared dataset to optimize its parameters and achieve the desired predictive performance.
 
-For further details on the implementation and usage of the model, please refer to the documentation provided.
+For further details on the implementation and usage of the model, please refer to the [documentation](https://github.com/Dawson-ma/Covid-19_Prediction/blob/main/Covid19_Predict.ipynb) provided.
