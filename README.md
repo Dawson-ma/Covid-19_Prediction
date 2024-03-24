@@ -6,7 +6,7 @@ This project focuses on predicting the outcomes of COVID-19 tests using machine 
 
 The model has demonstrated a commendable accuracy rate of **91.26%** on the given task.
 
-## Project Construction Steps
+## Steps
 
 1. **Data Preparation and Initialization**: This step involves the construction of the dataset and preprocessing of the raw data to make it suitable for training.
 
