@@ -1,6 +1,6 @@
 # COVID-19 Prediction
 
-This project focuses on predicting the outcomes of COVID-19 tests using machine learning techniques. The dataset utilized for training and evaluation can be found [here](https://delphi.cmu.edu/covidcast/survey-results/?date=20220625).
+Predicting the outcomes of COVID-19 tests uses machine learning techniques. The dataset utilized for training and evaluation can be found [here](https://delphi.cmu.edu/covidcast/survey-results/?date=20220625).
 
 ## Model Performance
 
